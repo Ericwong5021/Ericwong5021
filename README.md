@@ -38,6 +38,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg"></code>
   <code><img width="10%" src="https://www.freertos.org/fr-content-src/uploads/2018/07/logo-1.jpg"></code>
-  <code><img width="10%" src="https://www.rt-thread.io/images/logo.png"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 </p>
 
