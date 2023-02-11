@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Ericong, a Developer 🚀 from Brazil.
+## Hi, I'm Ericwong, a Developer 🚀 from China.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/Ericwong5021/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
 - 🤔 I’m looking for help with Design Pattern 😭;
@@ -31,8 +31,8 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
+  <a href="https://github.com/Ericwong5021/handle-path-oz">
+    <img width="55%" align="right" alt="Ericwong5021's github stats" src="https://github-readme-stats.vercel.app/api?username=Ericwong5021&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -49,8 +49,8 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 <p align="center">
-  <img alt="HitCount" src="http://hits.dwyl.com/onimur/onimur.svg" />
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=onimur.onimur" />
+  <img alt="HitCount" src="http://hits.dwyl.com/Ericwong5021/Ericwong5021.svg" />
+  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=Ericwong5021.Ericwong5021" />
   <!-- https://github.com/wesky93/views this is a clone of the hits -->
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Ericwong5021/Ericwong5021.svg" />
 </p>
