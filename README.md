@@ -41,13 +41,3 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.rt-thread.io/images/logo.png"></code>
 </p>
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-<p align="center">
-  <img alt="HitCount" src="http://hits.dwyl.com/Ericwong5021/Ericwong5021.svg" />
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=Ericwong5021.Ericwong5021" />
-  <!-- https://github.com/wesky93/views this is a clone of the hits -->
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Ericwong5021/Ericwong5021.svg" />
-</p>
