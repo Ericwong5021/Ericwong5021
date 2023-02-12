@@ -1,44 +1,50 @@
-<!-- Your title -->
-## Hi, I'm Ericwong, a Developer 🚀 from China.
+### Hello! I'm Ericwong
+A embedded software engineer from China
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+Other than coding, I love watching [anime](https://anilist.co/user/piyushsthr/), doing workout and playing flute.
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Ericwong5021)
-<!--
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
--->
-&nbsp;
 
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
+<details>
 
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
-
-**Languages and Tools:** 
-
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p>
-  <a href="https://github.com/Ericwong5021/handle-path-oz">
-    <img width="55%" align="right" alt="Ericwong5021's github stats" src="https://github-readme-stats.vercel.app/api?username=Ericwong5021&show_icons=true&hide_border=true" />
-  </a>
+  <summary>Github Stats 📊</summary>
   
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ericwong5021&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Piyush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericwong5021&layout=compact&theme=vue&hide_border=true" /></a> |
+| ------------- | ------------- |
+  
+  
+</details>
+<!-- 
+<details>
+  <summary>wanna talk?</summary>
 
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg"></code>
-  <code><img width="10%" src="https://www.freertos.org/fr-content-src/uploads/2018/07/logo-1.jpg"></code>
-  <code><img width="10%" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/clion-2.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></code>
-</p>
+  - **Twitter** = [@piyushsthr](https://twitter.com/piyushsthr)
+  - **Discord** = [`Piyush Suthar#4113`](https://discord.com/users/441955841260912650)
+</details>
 
+<details> -->
+
+<!--   <summary>projects i'm proud of:-</summary>
+
+  - [windows 11 web](https://github.com/ericwong5021/Dummy-Robot)
+  - [clpy](https://github.com/ericwong5021/clpy)
+  - [toolzar](https://github.com/ericwong5021/toolzar)
+</details> -->
+
+
+<details open>
+
+  <summary>Currently listening 🎶</summary>
+  
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=novatorem"/>
+  </a>
+</details>
+
+<details>
+  <summary>Let's connect 🤝</summary>
+  
+ | <a align="center" href="https://github.com/Ericwong5021"><img align="center" width="20" src="https://github.githubassets.com/favicons/favicon.png"> @Ericwong5021</a> | <a align="center" href="https://www.zhihu.com/people/wang-yi-dong-89-71"><img align="center" width="20" src="https://static.zhihu.com/heifetz/favicon.ico"> @王大东</a> | <a href="https://music.163.com/#/user/home?id=118365633"><img align="center" width="20" src="http://s1.music.126.net/style/favicon.ico?v20180823"> Eric大东</a> | <a href="https://blog.csdn.net/ericwong5021?spm=1000.2115.3001.5343"><img align="center" width="20" src="https://g.csdnimg.cn/static/logo/favicon32.ico"> Ericwong</a> |
+|---|---|---|---|
+  
+ </details>
+ 
