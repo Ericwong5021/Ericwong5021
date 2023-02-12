@@ -3,6 +3,7 @@ A embedded software engineer from China
 
 I'm looking for creative project and work on it ✨.
 
+ 
 
 <details>
 
@@ -19,7 +20,7 @@ I'm looking for creative project and work on it ✨.
 
   <summary>Currently listening 🎶</summary>
   
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&redirect=true" target="_blank">
+<a href="//music.163.com/outchain/player?type=2&id=1807799505&auto=1&height=66" target="_blank">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=novatorem"/>
   </a>
 </details>
@@ -32,13 +33,4 @@ I'm looking for creative project and work on it ✨.
   
  </details>
  
-  <iframe
-  frameborder="no" 
-  border="0" 
-  marginwidth="0" 
-  marginheight="0" 
-  width=330 
-  height=86 
-  src="//music.163.com/outchain/player?type=2&id=1807799505&auto=1&height=66">
-  </iframe>
- 
+
