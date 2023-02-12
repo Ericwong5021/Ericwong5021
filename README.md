@@ -1,7 +1,7 @@
-### Hello! I'm Ericwong
+### Hello! I'm Ericwong 👨‍💻
 A embedded software engineer from China
 
-Other than coding, I love watching [anime](https://anilist.co/user/piyushsthr/), doing workout and playing flute.
+I'm looking for creative project and work on it ✨.
 
 
 <details>
@@ -13,22 +13,6 @@ Other than coding, I love watching [anime](https://anilist.co/user/piyushsthr/),
   
   
 </details>
-<!-- 
-<details>
-  <summary>wanna talk?</summary>
-
-  - **Twitter** = [@piyushsthr](https://twitter.com/piyushsthr)
-  - **Discord** = [`Piyush Suthar#4113`](https://discord.com/users/441955841260912650)
-</details>
-
-<details> -->
-
-<!--   <summary>projects i'm proud of:-</summary>
-
-  - [windows 11 web](https://github.com/ericwong5021/Dummy-Robot)
-  - [clpy](https://github.com/ericwong5021/clpy)
-  - [toolzar](https://github.com/ericwong5021/toolzar)
-</details> -->
 
 
 <details open>
